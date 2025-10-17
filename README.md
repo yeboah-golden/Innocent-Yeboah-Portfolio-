@@ -57,7 +57,7 @@ I'm passionate about leveraging artificial intelligence to transform how we work
 
 - **Portfolio**: [Coming Soon!] <!-- Update with your live portfolio link -->
 - **LinkedIn**: [Your LinkedIn Profile] <!-- Add your LinkedIn URL -->
-- **Email**: [Your Email] <!-- Add your professional email -->
+- **Email**: 2qwakuyeboah@gmail.com <!-- Add your professional email -->
 
 ## 🎯 Availability
 
