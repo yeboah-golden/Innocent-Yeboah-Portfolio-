@@ -41,8 +41,28 @@ I'm passionate about leveraging artificial intelligence to transform how we work
 
 **Skills demonstrated**: Technical problem-solving, AI collaboration, web infrastructure management, persistence
 
+## 🔄 Featured Project: Complex WordPress Migration & Infrastructure Diagnosis
+
+**The Challenge:** 
+A seemingly straightforward WordPress site migration was persistently failing, with the site reverting to a default state after every import attempt, hiding the root cause for weeks.
+
+**The Breakthrough & Solution:** 
+- Uncovered the critical difference between **managed hosting (EasyWP)** and **shared hosting (cPanel)**.
+- Mastered the use of **All-in-One WP Migration** for full-site transfers.
+- Discovered that the Softaculous "Remove" function does not delete core files, requiring a manual overwrite for a truly clean install.
+- **Identified the Root Cause:** The domain's DNS was still pointing to the old hosting. The migration on the new server was successful all along; the issue was a fundamental infrastructure misdirection.
+- Persisted through multiple diagnostic cycles and engaged professional support with precise technical context to reach the solution.
+
+**Skills Demonstrated:**
+- Advanced Problem-Solving & Diagnostic Rigor
+- Technical Communication & Collaboration
+- Web Infrastructure Management (DNS, cPanel, Hosting)
+- Persistence in the face of complex, layered challenges
+
+> *This project embodies my core belief: **"Disruption always follows intention."** The intention to master this problem created the disruption necessary for profound learning.*
+
 ### 🎯 Portfolio Development
-*Building a comprehensive developer portfolio showcasing AI-assisted learning journey and project accomplishments.*
+*Building a comprehensive developer portfolio showcasing the AI-assisted learning journey and project accomplishments.*
 
 **Skills demonstrated**: Project planning, documentation, version control, professional presentation
 
