@@ -100,7 +100,7 @@ A seemingly straightforward WordPress site migration was persistently failing, w
 
 ## 📫 Let's Connect
 
-- **Portfolio**: [Coming Soon!] <!-- Update with your live portfolio link -->
+- **Portfolio**: ](https://github.com/yeboah-golden/Innocent-Yeboah-Portfolio <!-- Update with your live portfolio link -->
 - **LinkedIn**: [Your LinkedIn Profile] <!-- Add your LinkedIn URL -->
 - **Email**: 2qwakuyeboah@gmail.com <!-- Add your professional email -->
 
