@@ -80,7 +80,10 @@ A seemingly straightforward WordPress site migration was persistently failing, w
 - Web Infrastructure Management (DNS, cPanel, Hosting)
 - Persistence in the face of complex, layered challenges
 
-> *This project embodies my core belief: **"Disruption always follows intention."** The intention to master this problem created the disruption necessary for profound learning.*
+### The Philosophy in Action
+> *This project embodies my core belief: **"Disruption always follows intention."** The intention to master this problem created the necessary disruption for profound learning. It also proved that **'all work works, but the work has to work on you long enough before it will work for you.'** *
+
+**Live Site**: [thecovenantwealth.com](https://thecovenantwealth.com) *(Post-DNS propagation)*
 
 ### 🎯 Portfolio Development
 *Building a comprehensive developer portfolio showcasing the AI-assisted learning journey and project accomplishments.*
