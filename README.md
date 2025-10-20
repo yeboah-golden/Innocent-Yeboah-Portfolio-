@@ -28,6 +28,7 @@ I'm passionate about leveraging artificial intelligence to transform how we work
 - HTML5, CSS3, JavaScript
 - cPanel & Web Hosting Management
 - Git & GitHub
+- DNS Management & Infrastructure
 
 **Professional**
 - Technical Problem-Solving
